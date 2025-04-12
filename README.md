@@ -129,7 +129,7 @@ To provide a unified learning platform that:
   ![Image](https://github.com/user-attachments/assets/680d41b9-c627-4ffa-bb86-0c9cedf10e46)
   ![Image](https://github.com/user-attachments/assets/406aca24-dabb-4465-bd4d-1202dd629cea)
   ![Image](https://github.com/user-attachments/assets/905eb3e0-7062-46f6-b814-59bded75764b)
-- Result and progress tracking UI  
+
 
 ---
 
