@@ -126,10 +126,6 @@ To provide a unified learning platform that:
   
   ![Image](https://github.com/user-attachments/assets/87789aa2-ad76-42ca-91fc-dc74677face3)
   ![Image](https://github.com/user-attachments/assets/057f5fa8-9061-4989-9616-a67c43f9123c)
-  ![Image](https://github.com/user-attachments/assets/baa05adb-0cfe-4594-997e-e320e8662109)
-  ![Image](https://github.com/user-attachments/assets/1012b2bd-fc54-499c-9c15-dfdd3561fa60)
-  ![Image](https://github.com/user-attachments/assets/5e67e368-b0c3-4a66-948f-7f24587cfc01)
-  ![Image](https://github.com/user-attachments/assets/004f0150-c599-47a5-b8b3-d58f5d014295)
 - Result and progress tracking UI  
 
 ---
