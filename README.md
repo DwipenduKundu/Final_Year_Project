@@ -114,9 +114,22 @@ To provide a unified learning platform that:
 
 ## 📸 Sample Screens
 
-- Login & Sign-up  
-- Dashboard with sidebar navigation  
-- Chat, YouTube, Wikipedia, Quiz sections  
+- Login & Sign-up
+  ![Image](https://github.com/user-attachments/assets/fefab372-d83a-460a-bd61-bc13be3547de)
+  ![Image](https://github.com/user-attachments/assets/6ffdcd81-2c7b-4456-bea8-0dd661fa3e09)
+  ![Image](https://github.com/user-attachments/assets/8f98614e-4938-4c85-8246-4e8826f3e2b8)
+- Dashboard with sidebar navigation
+  ![Image](https://github.com/user-attachments/assets/3a62d804-3e52-49b7-962c-746b160a8b6f)
+  ![Image](https://github.com/user-attachments/assets/9334385c-84bc-4fe9-b148-3199978c81aa)
+- Chat, YouTube, Wikipedia, Quiz sections
+  ![Image](https://github.com/user-attachments/assets/e377aea4-255f-4965-b79e-5e3c2c2bcfd7)
+  ![Image](https://github.com/user-attachments/assets/6fe04690-2d8b-495c-9af6-445091cc5a9c)
+  ![Image](https://github.com/user-attachments/assets/87789aa2-ad76-42ca-91fc-dc74677face3)
+  ![Image](https://github.com/user-attachments/assets/057f5fa8-9061-4989-9616-a67c43f9123c)
+  ![Image](https://github.com/user-attachments/assets/baa05adb-0cfe-4594-997e-e320e8662109)
+  ![Image](https://github.com/user-attachments/assets/1012b2bd-fc54-499c-9c15-dfdd3561fa60)
+  ![Image](https://github.com/user-attachments/assets/5e67e368-b0c3-4a66-948f-7f24587cfc01)
+  ![Image](https://github.com/user-attachments/assets/004f0150-c599-47a5-b8b3-d58f5d014295)
 - Result and progress tracking UI  
 
 ---
@@ -130,7 +143,6 @@ Includes references to:
 - NLP and virtual assistant research  
 
 ---
-
 ## ✅ Conclusion
 
 **PAT** is a proof-of-concept web app demonstrating the power of AI in education. With intelligent assistance and resource integration, students can enhance their learning more efficiently and interactively.
