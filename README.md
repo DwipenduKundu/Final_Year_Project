@@ -123,7 +123,7 @@ To provide a unified learning platform that:
   ![Image](https://github.com/user-attachments/assets/9334385c-84bc-4fe9-b148-3199978c81aa)
 - Chat, YouTube, Wikipedia, Quiz sections
   ![Image](https://github.com/user-attachments/assets/e377aea4-255f-4965-b79e-5e3c2c2bcfd7)
-  ![Image](https://github.com/user-attachments/assets/6fe04690-2d8b-495c-9af6-445091cc5a9c)
+  
   ![Image](https://github.com/user-attachments/assets/87789aa2-ad76-42ca-91fc-dc74677face3)
   ![Image](https://github.com/user-attachments/assets/057f5fa8-9061-4989-9616-a67c43f9123c)
   ![Image](https://github.com/user-attachments/assets/baa05adb-0cfe-4594-997e-e320e8662109)
