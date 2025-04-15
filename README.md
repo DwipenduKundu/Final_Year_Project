@@ -1,6 +1,6 @@
 # 📚 PAT: Personalized AI Tutor
 
-**Group 04-14-99**  
+
 An AI-driven educational web application designed to enhance self-learning by integrating intelligent assistance, curated content, and personalized assessments.
 
 ---
@@ -147,3 +147,9 @@ Includes references to:
 **PAT** is a proof-of-concept web app demonstrating the power of AI in education. With intelligent assistance and resource integration, students can enhance their learning more efficiently and interactively.
 
 ---
+## Group
+**Dwipendu Kundu**
+**Akshat Kumar Sinha**
+**Amir Hamza**
+**Debanjan Maiti**
+**Indrajeet Barman**
